@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Lucas-Tamashiro
 - 👀 I’m interested in Programming and coding and general.
-- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate with people.
 - 📫 How to reach me, just send me a message on any social media.
 
